@@ -1,0 +1,9 @@
+issue: pip install Flask has an issue where it might be running on a different background 
+    solution: try a virtual env , this resolves many of the path issues and depencies 
+    
+issue: tried to get key from GPT, cant because they cost money
+    solution: try to get a Gemini key api (works so far)
+
+
+
+

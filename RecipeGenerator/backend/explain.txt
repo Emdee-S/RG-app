@@ -1,0 +1,19 @@
+pip install flask flask-cors openai
+    cors enables interaction wtih outside sources 
+
+python -m venv .venv
+    creates env
+
+.\.venv\Scripts\activate
+    activates the env 
+
+what is JSON?
+    JSON is a data exchange format, it moves data as key-value pairs, like dictionaries. 
+    json gets data from frontend, jsonify sends data back 
+
+how "if __name__ == '__main__':" works?
+    this makes it if you import the app file somewhere else, the code under it (app) wont run, only if you run the file itself with "py app.py" it will run 
+
+To use React, you need node.js 
+    https://nodejs.org/en
+
